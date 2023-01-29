@@ -120,7 +120,7 @@ Clone this repository to your desired folder:
 - after you need to navigate to a directory where you want the project to be
 - in this directory you will clone this repo using the command
     ```
-
+        git clone git@github.com:John-Kibirige/hello-rails-react.git
     ```
 
 ### Install
@@ -137,8 +137,7 @@ Install this project with:
 
 To run the project, execute the following command:
 - lauch the local host server by running ```rails server``` or ```bin/dev```
-- you can now checkout the app inside the browser by visiting http://127.0.0.1:3000/
-- note that your server has to run at this instead of http://localhost:3000
+- you can now checkout the app inside the browser by visiting http://localhost:3000/
 
 ### Run tests
 
